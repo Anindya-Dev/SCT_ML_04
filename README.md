@@ -51,10 +51,14 @@ Press `Q` or close the window to exit the webcam interface.
 ## 🛠️ Installation and Setup
 
 1. Clone or download the project:
+
    git clone https://github.com/Anindya-Dev/SCT_ML_04
+
    cd SCT_ML_04
+
    pip install -r requirements.txt
-   python gesture_recognition.py
+
+   python app.py
 
 
 
